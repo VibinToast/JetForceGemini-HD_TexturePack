@@ -7,7 +7,7 @@ This repo has 1K, & 2K resolution. 4K hits github limit so its hosted elsewhere.
 ## Screenshots
 
 <!-- Replace these placeholders with your own screenshots. -->
-| Before | After |
+| Before (game's textures) | After (4K Textures)|
 |---|---|
 | ![Jungle Comparison](images/jungle-OG.png) | ![After comparison placeholder](images/jungle-HD.png) |
 | ![Mines Comparison](images/mines-OG.png) | ![Screenshot placeholder 2](images/mines-HD.png) |
