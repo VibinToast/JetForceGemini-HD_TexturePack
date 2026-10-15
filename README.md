@@ -11,9 +11,9 @@ This pack has 1K, 2K, & 4K resolution. Download only one of these!
 <!-- Replace these placeholders with your own screenshots. -->
 | Before | After |
 |---|---|
-| ![Before comparison placeholder](images\jungle-OG.png) | ![After comparison placeholder](images\jungle-HD.png) |
-| ![Screenshot placeholder 1](images\mines-OG.png) | ![Screenshot placeholder 2](images\mines-HD.png) |
-| ![Screenshot placeholder 1](images\waterruin-OG.png) | ![Screenshot placeholder 2](images\waterruin-HD.png) |
+| ![Jungle Comparison](images/jungle-OG.png) | ![After comparison placeholder](images/jungle-HD.png) |
+| ![Mines Comparison](images/mines-OG.png) | ![Screenshot placeholder 2](images/mines-HD.png) |
+| ![Water Ruin Comparison](images/waterruin-OG.png) | ![Screenshot placeholder 2](images/waterruin-HD.png) |
 
 ## Download
 
