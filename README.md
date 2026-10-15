@@ -1,10 +1,8 @@
 # Jet Force Gemini — HD Texture Pack
 
-![Project banner placeholder](images/banner-placeholder.png)
-
 This is an HD texture pack project for [Jet Force Gemini Recomp](https://github.com/VibinToast/JetForceGemini-Recomp). This repository contains the .rtz files you can throw into the game for HD textures.
 
-This pack has 1K, 2K, & 4K resolution. Download only one of these!
+This repo has 1K, & 2K resolution. 4K hits github limit so its hosted elsewhere. Download only one of these!
 
 ## Screenshots
 
@@ -14,6 +12,8 @@ This pack has 1K, 2K, & 4K resolution. Download only one of these!
 | ![Jungle Comparison](images/jungle-OG.png) | ![After comparison placeholder](images/jungle-HD.png) |
 | ![Mines Comparison](images/mines-OG.png) | ![Screenshot placeholder 2](images/mines-HD.png) |
 | ![Water Ruin Comparison](images/waterruin-OG.png) | ![Screenshot placeholder 2](images/waterruin-HD.png) |
+
+More examples at: https://vibintoast.com/projects/jfg-4k
 
 ## Download
 
